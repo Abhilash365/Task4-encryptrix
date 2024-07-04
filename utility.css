@@ -178,3 +178,7 @@ margin-left: 20px;
     color: #fff;
 
 }
+
+#hv:hover .img-circle div{
+    transform: translateY(-120px);
+}
